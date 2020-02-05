@@ -13,3 +13,9 @@ Here is the backend for administration:
 3. Load index.php and follow instructions.  
 4. Log in.  
 5. Run the 'Setup Images'.  
+
+Imagick is used, but GD is also supported.<br>
+Images and thumbs are all stored as WEBP images.<br>
+It is possible to add comment to each image.<br>
+PHP Image Gallery is tested to work<br>
+with Firefox, Chrome and Internet Explorer browsers.
