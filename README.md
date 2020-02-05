@@ -16,6 +16,6 @@ Here is the backend for administration:
 
 Imagick is used, but GD is also supported.<br>
 Images and thumbs are all stored as WEBP images.<br>
-It is possible to add comment to each image.<br>
+It is possible to add description to each image.<br>
 PHP Image Gallery is tested to work<br>
 with Firefox, Chrome and Internet Explorer browsers.
